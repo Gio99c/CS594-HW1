@@ -1,0 +1,7 @@
+mode,epoch,loss
+training, 1, 1509.69
+training, 2, 1501.42
+training, 3, 1497.33
+test, 1, 1510.96
+test, 2, 1500.97
+test, 3, 1496.05

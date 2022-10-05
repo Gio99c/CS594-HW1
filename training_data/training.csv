@@ -1,0 +1,11 @@
+NADE,Epochs,5 
+NADE,Optimizer,Adam
+NADE,Hidden dimension,500
+PixelRNN,Epochs,5
+PixelRNN,Optimizer,RMSprop
+PixelRNN,Num layers,2
+PixelRNN,Hidden dimension,16
+Transformer,Epochs,5
+Transformer,Optimizer,Adam
+Transformer,Embedding dimension,64
+Transformer,Attention heads,4

@@ -1,0 +1,11 @@
+mode,epoch,loss
+training, 1, 1464
+training, 2, 1456
+training, 3, 1450
+training, 4, 1445
+training, 5, 1441
+test, 1, 1475
+test, 2, 1459
+test, 3, 1451
+test, 4, 1444
+test, 5, 1440
